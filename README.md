@@ -1,2 +1,2 @@
 # Arkanoid
-Аналог игры Arkanoid (разбивание кирпичиков)
+Breaking bricks
